@@ -19,7 +19,11 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#number_1
+{
+	width: 60%;
+}
+#number_2
 {
 	width: 60%;
 }
